@@ -16,6 +16,17 @@ public class AlgorithmTest01 {
         return count;
     }
 
+    // 다른 방법 (main에서 intput이 char형 일 경우)
+    static int solution2(String s, char input){
+        int count=0;
+        s= s.toUpperCase(); // 문자열(s)를 대문자로 변환
+        input = Character.toUpperCase(input); // input(char)문자를 대문자로 변환
+        for(char x : s.toCharArray()){
+            if(x == input) count++;
+        }
+        return count;
+    }
+
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String str = sc.next();

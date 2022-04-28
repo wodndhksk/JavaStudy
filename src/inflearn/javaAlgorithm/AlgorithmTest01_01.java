@@ -7,7 +7,7 @@ package inflearn.javaAlgorithm;
 
 import java.util.Scanner;
 
-public class AlgorithmTest01 {
+public class AlgorithmTest01_01 {
 
     static int solution(String s, String input){
         String replaceString = s.replaceAll(input.toLowerCase(), "");

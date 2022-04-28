@@ -12,7 +12,6 @@ public class AlgorithmTest01_02 {
             else if(Character.isLowerCase(chars[i]))
                 chars[i] = Character.toUpperCase(chars[i]);
         }
-
         String str = new String(chars);
 
         return str;

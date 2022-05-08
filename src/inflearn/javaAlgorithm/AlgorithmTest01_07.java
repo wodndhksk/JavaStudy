@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class AlgorithmTest01_07 {
 
-    void solution1(String str){
+    void solution2(String str){
         String lowerStr = str.toLowerCase();
         char[] chars = lowerStr.toCharArray();
         int count = 0;
@@ -17,6 +17,13 @@ public class AlgorithmTest01_07 {
         }else{
             System.out.println("NO");
         }
+    }
+
+    void  solution1(String str){
+        String answer = "NO";
+        String tmp = new StringBuilder(str).reverse().toString();
+        if(str.equalsIgnoreCase(tmp)) answer="YES";
+        System.out.println(answer);
     }
 
     public static void main(String[] args) {

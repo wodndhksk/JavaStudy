@@ -25,6 +25,15 @@ public class AlgorithmTest01_08 {
         return answer;
     }
 
+    // 간단한 방법 : 정규식 [a-z] 앞에 ^ 추가하면 a~z를 제외하고 replaceAll
+    public String solution2(String str){
+        String answer="NO";
+        str = str.toLowerCase().replaceAll("[^a-z]", "");
+        String tmp = new StringBuilder(str).reverse().toString();
+        if(str.equals(tmp)) answer = "YES";
+        return answer;
+    }
+
     public static void main(String[] args) {
         AlgorithmTest01_08 al = new AlgorithmTest01_08();
         Scanner sc = new Scanner(System.in);

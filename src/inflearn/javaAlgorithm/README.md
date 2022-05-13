@@ -24,6 +24,7 @@ c
 
 2
 <hr>
+
 ## 2. 대소문자 변환
 설명
 
@@ -47,6 +48,7 @@ StuDY
 
 sTUdy
 <hr>
+
 ## 3. 문장 속 단어
 설명
 
@@ -73,6 +75,7 @@ it is time to study
 study
 
 <hr>
+
 ## 4. 단어 뒤집기
 설명
 
@@ -101,6 +104,7 @@ doog
 emiT
 giB
 <hr>
+
 ## 5. 특정 문자 뒤집기
 설명
 
@@ -124,6 +128,7 @@ a#b!GE*T@S
 
 S#T!EG*b@a
 <hr>
+
 ## 6. 중복문자제거
 설명
 
@@ -148,6 +153,7 @@ ksekkset
 kset
 
 <hr>
+
 ## 7. 회문 문자열
 설명
 
@@ -173,6 +179,7 @@ gooG
 
 YES
 <hr>
+
 ## 8. 유효한 팰린드롬
 설명
 
@@ -200,6 +207,7 @@ found7, time: study; Yduts; emit, 7Dnuof
 
 YES
 <hr>
+
 ## 9. 숫자만 추출
 설명
 
@@ -225,6 +233,7 @@ g0en2T0s8eSoft
 
 208
 <hr>
+
 ## 10. 가장 짧은 문자거리
 설명
 
@@ -248,6 +257,7 @@ teachermode e
 
 1 0 1 2 1 0 1 2 2 1 0
 <hr>
+
 ## 11. 문자열 압축
 설명
 

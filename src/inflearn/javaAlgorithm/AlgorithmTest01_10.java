@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class AlgorithmTest01_010 {
+public class AlgorithmTest01_10 {
 
     public String solution1(String str, char c){
         String answer="";
@@ -51,7 +51,7 @@ public class AlgorithmTest01_010 {
     }
 
     public static void main(String[] args) {
-        AlgorithmTest01_010 al = new AlgorithmTest01_010();
+        AlgorithmTest01_10 al = new AlgorithmTest01_10();
         Scanner sc = new Scanner(System.in);
         String inputString = sc.next();
         char inputChar = sc.next().charAt(0);

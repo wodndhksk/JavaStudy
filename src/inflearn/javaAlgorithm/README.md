@@ -59,7 +59,9 @@ sTUdy
 <hr>
 
 ## 3. 문장 속 단어
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 한 개의 문장이 주어지면 그 문장 속에서 가장 긴 단어를 출력하는 프로그램을 작성하세요.
 
@@ -82,11 +84,14 @@ it is time to study
 예시 출력 1
 
 study
-
+</div>
+</details>
 <hr>
 
 ## 4. 단어 뒤집기
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 N개의 단어가 주어지면 각 단어를 뒤집어 출력하는 프로그램을 작성하세요.
 
@@ -112,10 +117,14 @@ Big
 doog
 emiT
 giB
+</div>
+</details>
 <hr>
 
 ## 5. 특정 문자 뒤집기
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 영어 알파벳과 특수문자로 구성된 문자열이 주어지면 영어 알파벳만 뒤집고,
 
@@ -136,10 +145,14 @@ a#b!GE*T@S
 예시 출력 1
 
 S#T!EG*b@a
+</div>
+</details>
 <hr>
 
 ## 6. 중복문자제거
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 소문자로 된 한개의 문자열이 입력되면 중복된 문자를 제거하고 출력하는 프로그램을 작성하세요.
 
@@ -160,11 +173,14 @@ ksekkset
 예시 출력 1
 
 kset
-
+</div>
+</details>
 <hr>
 
 ## 7. 회문 문자열
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 앞에서 읽을 때나 뒤에서 읽을 때나 같은 문자열을 회문 문자열이라고 합니다.
 
@@ -187,10 +203,14 @@ gooG
 예시 출력 1
 
 YES
+</div>
+</details>
 <hr>
 
 ## 8. 유효한 팰린드롬
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 앞에서 읽을 때나 뒤에서 읽을 때나 같은 문자열을 팰린드롬이라고 합니다.
 
@@ -215,10 +235,14 @@ found7, time: study; Yduts; emit, 7Dnuof
 예시 출력 1
 
 YES
+</div>
+</details>
 <hr>
 
 ## 9. 숫자만 추출
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 문자와 숫자가 섞여있는 문자열이 주어지면 그 중 숫자만 추출하여 그 순서대로 자연수를 만듭니다.
 
@@ -241,6 +265,8 @@ g0en2T0s8eSoft
 예시 출력 1
 
 208
+</div>
+</details>
 <hr>
 
 ## 10. 가장 짧은 문자거리
@@ -265,10 +291,14 @@ teachermode e
 예시 출력 1
 
 1 0 1 2 1 0 1 2 2 1 0
+</div>
+</details>
 <hr>
 
 ## 11. 문자열 압축
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 알파벳 대문자로 이루어진 문자열을 입력받아 같은 문자가 연속으로 반복되는 경우 반복되는
 
@@ -297,10 +327,14 @@ KSTTTSEEKFKKKDJJGG
 예시 출력 2
 
 KST3SE2KFK3DJ2G2
+</div>
+</details>
 <hr>
 
 ## 12. 암호
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 현수는 영희에게 알파벳 대문자로 구성된 비밀편지를 매일 컴퓨터를 이용해 보냅니다.
 
@@ -354,10 +388,14 @@ KST3SE2KFK3DJ2G2
 예시 출력 1
 
 COOL
+</div>
+</details>
 <hr>
 
 ## 02-01. 큰 수 출력하기
-설명
+<details>
+<summary>설명</summary>
+<div markdown="1">  
 
 N개의 정수를 입력받아, 자신의 바로 앞 수보다 큰 수만 출력하는 프로그램을 작성하세요.
 
@@ -379,5 +417,7 @@ N개의 정수를 입력받아, 자신의 바로 앞 수보다 큰 수만 출력
 예시 출력 1
 
 7 9 6 12
-
+</div>
+</details>
+<hr>
 

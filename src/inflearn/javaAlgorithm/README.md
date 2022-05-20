@@ -1,5 +1,6 @@
-<details>
+
 ## 1. 문자 찾기
+<details>
 <summary>설명</summary>
 <div markdown="1">       
 

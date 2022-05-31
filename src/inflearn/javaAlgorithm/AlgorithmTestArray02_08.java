@@ -15,6 +15,7 @@ public class AlgorithmTestArray02_08 {
         }
         return answer;
     }
+
     public static void main(String[] args) {
         AlgorithmTestArray02_08 al = new AlgorithmTestArray02_08();
         Scanner sc = new Scanner(System.in);
